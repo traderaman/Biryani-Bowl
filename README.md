@@ -1,1 +1,2 @@
-This repository contains all the important files that you need as a developer and some of the main things that is required to get good at competitive programming and all the better aspects of the the programming world and so the main advantage of the acm icpc is that it prepares you to the extent that you can be the next jeff bezoz.
+# Welcome to Biryani Bowl
+_an easy way to book your favorite meals on the go._
