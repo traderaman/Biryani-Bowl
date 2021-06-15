@@ -21,11 +21,28 @@ It is made using `HTML`, `CSS`, `Bootstrap` and `JavaScript`.
 
 <p float="left">
   <img src="/me.png" width="100" />
-  Shubham Singh
+  [@codestarsingh](https://www.github.com/codestarsingh)
   <img src="/raju-profile.jpg" width="100" />
-  Raju Gupta
+  [@Raju Gupta](https://www.github.com/new-raju)
 </p>
 
 ## Licence ✅
 
 `Biryani Bowl` is available under the MIT licence. See the LICENCE file for more info
+
+
+## Usage/Examples 📚
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
+## Feedback 🛃
+
+If you have any feedback, please reach out to us at feedback@biryanibowl.com
+
+  
