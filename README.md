@@ -19,8 +19,10 @@ It is made using `HTML`, `CSS`, `Bootstrap` and `JavaScript`.
 
 ## Collaborators 🧑‍🤝‍🧑
 
-![image]()
-![image]()
+<p float="left">
+  <img src="/me.png" width="100" />
+  <img src="/raju.png" width="100" /> 
+</p>
 
 ## Licence ✅
 
