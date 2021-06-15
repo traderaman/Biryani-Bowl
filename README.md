@@ -16,3 +16,7 @@ Made with ❤️ by Shubham Singh
 ## Technologies & Frameworks 👨‍💻
 
 It is made using `HTML`, `CSS`, `Bootstrap` and `JavaScript`.
+
+## Licence ✅
+
+`Biryani Bowl` is available under the MIT licence. See the LICENCE file for more info
