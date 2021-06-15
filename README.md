@@ -21,7 +21,7 @@ It is made using `HTML`, `CSS`, `Bootstrap` and `JavaScript`.
 
 <p float="left">
   <img src="/me.png" width="100" />
-  <img src="/raju.png" width="100" /> 
+  <img src="/raju-profile.png" width="100" /> 
 </p>
 
 ## Licence ✅
