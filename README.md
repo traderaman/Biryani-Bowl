@@ -11,4 +11,5 @@ This website is made using `HTML`, `CSS`, `Bootstrap`.
 
 ![App Screenshot](preview1.png)
 <br>
+<br>
 ![App Screenshot](preview2.png)
