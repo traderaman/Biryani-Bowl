@@ -17,11 +17,10 @@ Made with ❤️ by Shubham Singh
 
 It is made using `HTML`, `CSS`, `Bootstrap` and `JavaScript`.
 
-## Collaborators 🧑‍🤝‍🧑
+## Author 👨‍
 
 <p float="left">
   <img src="/me.png" width="100" />
-  <img src="/raju-profile.jpg" width="100" />
 </p>
 
 ## Licence ✅
