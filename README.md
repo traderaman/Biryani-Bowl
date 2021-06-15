@@ -21,9 +21,7 @@ It is made using `HTML`, `CSS`, `Bootstrap` and `JavaScript`.
 
 <p float="left">
   <img src="/me.png" width="100" />
-  [@codestarsingh](https://www.github.com/codestarsingh)
   <img src="/raju-profile.jpg" width="100" />
-  [@Raju Gupta](https://www.github.com/new-raju)
 </p>
 
 ## Licence ✅
