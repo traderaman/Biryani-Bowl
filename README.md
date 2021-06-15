@@ -5,8 +5,6 @@ Made with ❤️ by Shubham Singh
 
 ![image](biryani-bowl.png)
 
-This website is made using `HTML`, `CSS`, `Bootstrap`.
-
 [VISIT HERE](https://codestarsingh.github.io/biryanibowl/ "Click here")
 
 ## Preview 📺
@@ -14,3 +12,7 @@ This website is made using `HTML`, `CSS`, `Bootstrap`.
 ![App Screenshot](preview1.png)
 <br>
 ![App Screenshot](preview2.png)
+
+## Technologies & Frameworks 👨‍💻
+
+It is made using `HTML`, `CSS`, `Bootstrap` and `JavaScript`.
