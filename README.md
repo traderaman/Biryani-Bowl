@@ -20,8 +20,8 @@ It is made using `HTML`, `CSS`, `Bootstrap` and `JavaScript`.
 ## Collaborators 🧑‍🤝‍🧑
 
 <p float="left">
-  <img src="/me.png" width="100" />
-  <img src="/raju-profile.jpg" width="100" /> 
+  <img src="/me.png" width="200" />
+  <img src="/raju-profile.jpg" width="200" /> 
 </p>
 
 ## Licence ✅
