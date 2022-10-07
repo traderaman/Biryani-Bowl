@@ -170,15 +170,7 @@ p{
     font-size: 2.5rem;
 }
 
-/* Sign In Section */
 
-.text-center{
-    background-color: #ffd700;
-    padding: 30px 500px;
-}
-
-@media (max-width: 1200px){
-    .signin{
         display: none;
     }
 }
