@@ -176,9 +176,3 @@ p{
     background-color: #ffd700;
     padding: 30px 500px;
 }
-
-@media (max-width: 1200px){
-    .signin{
-        display: none;
-    }
-}
